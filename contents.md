@@ -1,5 +1,5 @@
-Table of contents
+# contents
 
-1. Titles
-2. Quotes
-3. Classics CSV
+- titles.md: The movie titles in the WebFlyx collection
+- classics.csv: A comma-separated list of classic movies
+- quotes: A directory of files containing memorable quotes from movies
